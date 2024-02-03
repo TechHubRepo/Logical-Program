@@ -2,7 +2,7 @@ package com.techhub.lp;
 
 /**
 --------------------------------------------------
-Program #21 : Reverse the  String.
+Reverse the  String.
 
 Example :  ABCD -> DCBA
 ---------------------------------------------------

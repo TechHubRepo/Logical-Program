@@ -9,7 +9,7 @@ import java.util.Set;
 
 /**
 --------------------------------------------- 
-Program #21 : Print permutation of a String
+Print permutation of a String
 
 Example
 		   RAM
