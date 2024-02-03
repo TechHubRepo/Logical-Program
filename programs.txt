@@ -277,7 +277,7 @@ Program #28 : Write a program to read a char value from user and display it.
 ==================================================================================================
 
 Example : Enter a Character : H
-		  You entered :  : H
+		  You entered : H
 
 ==================================================================================================
 Program #29 : Write a program to read two numbers and swap them using third variable.

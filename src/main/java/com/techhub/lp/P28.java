@@ -7,7 +7,7 @@ import java.util.Scanner;
 Write a program to read a char value from user and display it.
 
 Example : Enter a Character : H
-		  You entered :  : H
+		  You entered : H
 ---------------------------------------------------
 */
 public class P28 {
