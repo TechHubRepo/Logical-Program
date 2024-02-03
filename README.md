@@ -1,2 +1,2 @@
-# logical-program
+# Logical Program
 Java logical programs
