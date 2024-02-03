@@ -272,6 +272,32 @@ Program #27 : Write a program to read a string value from user and display its i
 Example : Enter Your Name : Ram Niwash
 		  Your Name : R,a,m, ,N,i,w,a,s,h,
 
+==================================================================================================
+Program #28 : Write a program to read a char value from user and display it.
+==================================================================================================
 
-3
+Example : Enter a Character : H
+		  You entered :  : H
+
+==================================================================================================
+Program #29 : Write a program to read two numbers and swap them using third variable.
+==================================================================================================
+
+Example : 
+	Enter Number A : 52
+	Enter Number B : 33
+	A = 33
+	B = 52
+
+==================================================================================================
+Program #30 : Write a program to read two numbers and swap them without using third variable.
+==================================================================================================
+
+Example : 
+	Enter Number A : 52
+	Enter Number B : 33
+	A = 33
+	B = 52
+
+6
 		  
