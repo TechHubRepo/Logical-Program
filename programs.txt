@@ -251,5 +251,27 @@ Program #24 : Remove all the white-spaces from String.
 
 Example :  Hello world welcome to java ->  Helloworldwelcometojava
 
+==================================================================================================
+Program #25 : Write a program to read a string value from user and display it.
+==================================================================================================
+
+Example : Enter Your Name : Ram Niwash
+		  Your Name : Ram Niwash
+
+==================================================================================================
+Program #26 : Write a program to read a int value from user and display it.
+==================================================================================================
+
+Example : Enter Your Name : Ram Niwash
+		  Your Name : Ram Niwash
+
+==================================================================================================
+Program #27 : Write a program to read a string value from user and display its individual characters.
+==================================================================================================
+
+Example : Enter Your Name : Ram Niwash
+		  Your Name : R,a,m, ,N,i,w,a,s,h,
 
 
+3
+		  
