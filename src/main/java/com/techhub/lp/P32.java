@@ -56,11 +56,7 @@ public class P32 {
 		 *  |  1  |  1  |    1    |
 		 *  -----------------------
 		 */
-		
-		int sum = 0; 
-		
-		sum = (a ^ b) | (a ^ b);
-		
+
 		while (b != 0) 
         {
             // carry now contains common
@@ -77,7 +73,7 @@ public class P32 {
             // to x gives the required sum
             b = carry << 1;
         }
-        sum = a;
+		int sum = a;
 				
 		System.out.println("Sum = "+sum);
 		sc.close();
