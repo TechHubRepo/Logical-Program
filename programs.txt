@@ -262,8 +262,8 @@ Example : Enter Your Name : Ram Niwash
 Program #26 : Write a program to read a int value from user and display it.
 ==================================================================================================
 
-Example : Enter Your Name : Ram Niwash
-		  Your Name : Ram Niwash
+Example : Enter Your age : 10
+		  Your age : 10
 
 ==================================================================================================
 Program #27 : Write a program to read a string value from user and display its individual characters.
@@ -368,4 +368,4 @@ Program #40 : Write a program to read three number and display minimum of them.
 
 Example : 10 is minimum
 
-10
+17

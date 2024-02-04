@@ -6,8 +6,8 @@ import java.util.Scanner;
 --------------------------------------------------
 Write a program to read a integer value from user and display it.
 
-Example : Enter Your Name : Ram Niwash
-		  Your Name : Ram Niwash
+Example : Enter Your age : 10
+		  Your age : 10
 ---------------------------------------------------
 */
 public class P26 {
