@@ -368,4 +368,9 @@ Program #40 : Write a program to read three number and display minimum of them.
 
 Example : 10 is minimum
 
-17
+==================================================================================================
+Program #41 : Write a program to find Longest Arithmetic Progression
+==================================================================================================
+
+
+19
