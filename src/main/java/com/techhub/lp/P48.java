@@ -7,8 +7,7 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
- Write a program to read year and display that it is leap year of not.
- Note : If year is divisible by 4 then it is leap year.
+ Write a program to read a character is display it is vowel or consonant
 ------------------------------------------------------------------------
 */
 public class P48 {
