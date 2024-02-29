@@ -8,9 +8,10 @@ import java.util.Map;
 import java.util.Set;
 
 /**
---------------------------------------------- 
-Print permutation of a String
-
+---------------------------------------------
+ Program #21
+ Print permutation of a String
+---------------------------------------------
 Example
 		   RAM
 	       ARM

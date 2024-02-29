@@ -7,7 +7,10 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
-Write a program to read three subject marks and display the following
+ Program #45
+ Write a program to read three subject marks and display the following
+------------------------------------------------------------------------
+
  1. Average marks
  2. Total Marks
  3. Grade as per following criteria

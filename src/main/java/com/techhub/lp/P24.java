@@ -2,8 +2,9 @@ package com.techhub.lp;
 
 /**
 --------------------------------------------------
-Remove all the white-spaces from String.
-
+ Program #24
+ Remove all the white-spaces from String.
+--------------------------------------------------
 Example :  Hello world welcome to java -> Helloworldwelcometojava
 ---------------------------------------------------
 */

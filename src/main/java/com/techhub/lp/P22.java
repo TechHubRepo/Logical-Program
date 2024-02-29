@@ -4,8 +4,9 @@ import java.util.Arrays;
 
 /**
 --------------------------------------------------
-Remove duplicate element from array.
-
+ Program #22
+ Remove duplicate element from array.
+--------------------------------------------------
 Example :	[5,9,6,5,9,2,5] -> [5,9,6,2]
 
 			[11,19,6,9,9,11,19,11,5,5,3] -> [11, 19, 6, 9, 5, 3, 0, 0, 0, 0, 0]

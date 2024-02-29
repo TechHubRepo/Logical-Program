@@ -3,10 +3,12 @@ package com.techhub.lp;
 import java.util.Scanner;
 
 /**
---------------------------------------------------
-Write a program to read a string value from user and display its individual characters.
+----------------------------------------------------------------------------------------------------
+ Program #27
+ Write a program to read a string value from user and display its individual characters.
+----------------------------------------------------------------------------------------------------
 
-Example : Enter Your Name : Ram Niwash
+ Example : Enter Your Name : Ram Niwash
 		  Your Name : R,a,m, ,N,i,w,a,s,h,
 ---------------------------------------------------
 */

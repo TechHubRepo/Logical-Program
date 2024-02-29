@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
-Write a program to read two numbers and swap them using bitwise operator
-
+ Program #31
+ Write a program to read two numbers and swap them using bitwise operator
+------------------------------------------------------------------------
 Enter Number A : 52
 Enter Number B : 33
 A = 33

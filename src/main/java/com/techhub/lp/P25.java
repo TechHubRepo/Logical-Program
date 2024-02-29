@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 /**
 --------------------------------------------------
-Write a program to read a string value from user and display it.
+ Program #25
+ Write a program to read a string value from user and display it.
+--------------------------------------------------
 
 Example : Enter Your Name : Ram Niwash
 		  Your Name : Ram Niwash

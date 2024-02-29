@@ -6,6 +6,7 @@ import java.io.Reader;
 
 /**
 ------------------------------------------------------------------------
+ Program #43
  Write a program to read a character and display it is an uppercase or lowercase.
 ------------------------------------------------------------------------
 */

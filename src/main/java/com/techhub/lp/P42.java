@@ -6,6 +6,7 @@ import java.io.Reader;
 
 /**
 ------------------------------------------------------------------------
+ Program #42
  Write a program to read a character and display that it is digit or not.
 ------------------------------------------------------------------------
 */

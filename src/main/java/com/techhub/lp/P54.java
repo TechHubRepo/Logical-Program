@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
-Write a program to read a number and display each digit in words
-
+ Program #54
+ Write a program to read a number and display each digit in words
+------------------------------------------------------------------------
  123
  ONE TWO THREE
 ------------------------------------------------------------------------

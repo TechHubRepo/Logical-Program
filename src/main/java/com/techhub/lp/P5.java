@@ -1,10 +1,10 @@
 package com.techhub.lp;
 
 /**
----------------------------------------------- 
-Write a program to drew the following pattern.
----------------------------------------------- 
- 
+----------------------------------------------
+ Program #5
+ Write a program to draw the following pattern.
+----------------------------------------------
      *
     **
    ***

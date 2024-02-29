@@ -3,15 +3,16 @@ package com.techhub.lp;
 import java.util.Scanner;
 
 /**
-------------------------------------------------------------------------
-Write a program to read two numbers and display the sum of without using + operator.
-
+---------------------------------------------------------------------------------------
+ Program #32
+ Write a program to read two numbers and display the sum of without using + operator.
+---------------------------------------------------------------------------------------
 Example : 
 	Enter Number A : 7
 	Enter Number B : 3
 	Sum = 10
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------------------------
 */
 public class P32 {
 

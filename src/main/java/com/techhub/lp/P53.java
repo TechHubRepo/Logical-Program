@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #53
  Write a program to find the sum of command line argument
-
+------------------------------------------------------------------------
  5 10 15
 
  sum = 30

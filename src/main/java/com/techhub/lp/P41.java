@@ -5,8 +5,8 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #41
  Write a program to find Longest Arithmetic Progression
-
 ------------------------------------------------------------------------
 */
 public class P41 {

@@ -3,12 +3,14 @@ package com.techhub.lp;
 import java.util.Scanner;
 
 /**
---------------------------------------------------
-Write a program to read a char value from user and display it.
+----------------------------------------------------------------
+ Program #28
+ Write a program to read a char value from user and display it.
+----------------------------------------------------------------
 
-Example : Enter a Character : H
+ Example : Enter a Character : H
 		  You entered : H
----------------------------------------------------
+----------------------------------------------------------------
 */
 public class P28 {
 

@@ -5,8 +5,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #50
  Write a program to read month and year and display the number of days in month.
-
+------------------------------------------------------------------------
  1 : 31
  2 : 28/29
  3 : 30

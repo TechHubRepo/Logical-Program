@@ -5,8 +5,9 @@ import java.io.Reader;
 
 /**
 ------------------------------------------------------------------------
-Write a program to read a number and display the first n natural number.
-
+ Program #51
+ Write a program to read a number and display the first n natural number.
+------------------------------------------------------------------------
  1,2,3,4, ...., 20
  21,22,23 ...., 40
  .

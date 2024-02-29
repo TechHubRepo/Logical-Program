@@ -4,8 +4,9 @@ import java.util.Arrays;
 
 /**
 ----------------------------------------------
-Write a program to find the indexes of an array of number who sum is equals to 
-given target number.
+ Program #18
+ Write a program to find the indexes of an array of number who sum is equals to
+ given target number.
 ----------------------------------------------
 
 	Input  : [5, 10, 20, 40]

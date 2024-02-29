@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #37
  Write a program to read two number and display maximum of number.
+------------------------------------------------------------------------
 
  Example : 	5 is maximum
 

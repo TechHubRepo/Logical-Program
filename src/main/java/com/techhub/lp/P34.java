@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
-Write a program to read a number and display it is positive or not.
+ Program #34
+ Write a program to read a number and display it is positive or not.
+------------------------------------------------------------------------
 
  Example : 9 is Positive
  -8 is negative

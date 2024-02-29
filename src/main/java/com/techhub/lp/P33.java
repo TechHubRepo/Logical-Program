@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #33
  Write a program to convert fahrenheit to celsius
+------------------------------------------------------------------------
 
 Example : celsius = (fahrenheit-32)*5/9;
 

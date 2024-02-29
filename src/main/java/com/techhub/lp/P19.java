@@ -4,8 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * ---------------------------------------------- 
- * Find the number of occurrence of character in string. 
+ * ----------------------------------------------
+ *  Program #19
+ *  Find the number of occurrence of character in string.
  * ----------------------------------------------
  * 
  * String = abacba 

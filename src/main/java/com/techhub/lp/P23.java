@@ -2,9 +2,10 @@ package com.techhub.lp;
 
 /**
 --------------------------------------------------
-Reverse the  String.
-
-Example :  ABCD -> DCBA
+ Program #23
+ Reverse the  String.
+--------------------------------------------------
+ Example :  ABCD -> DCBA
 ---------------------------------------------------
 */
 public class P23 {

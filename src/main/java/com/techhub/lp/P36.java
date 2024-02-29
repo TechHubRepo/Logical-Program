@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #36
  Write a program to read a number and display that it is even or odd.
+------------------------------------------------------------------------
 
  Example : 	5 is odd
  			10 is even

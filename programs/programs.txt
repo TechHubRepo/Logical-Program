@@ -472,4 +472,10 @@ Program #54 : Write a program to read a number and display each digit in words
 123
 ONE TWO THREE
 
-34
+==================================================================================================
+Program #55 : Write a program to read a number show that it is power of 2 or not
+==================================================================================================
+4 = 2 * 2
+8  = 2 * 2 * 2
+16 = 2 * 2 * 2 * 2
+32 = 2 * 2 * 2 * 2 * 2

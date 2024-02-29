@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
 --------------------------------------------------
-Write a program to read a integer value from user and display it.
-
+ Program #26
+ Write a program to read an integer value from user and display it.
+--------------------------------------------------
 Example : Enter Your age : 10
 		  Your age : 10
 ---------------------------------------------------

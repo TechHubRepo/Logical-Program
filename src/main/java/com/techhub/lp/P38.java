@@ -4,7 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #38
  Write a program to read two number and display minimum of number.
+------------------------------------------------------------------------
 
  Example : 	5 is minimum
 

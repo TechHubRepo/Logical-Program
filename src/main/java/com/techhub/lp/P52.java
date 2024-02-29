@@ -4,8 +4,9 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #52
  Write a program to read a number and display the sum of first n natural number.
-
+------------------------------------------------------------------------
  1+2+3+4+5 = 15
 
  sum of first n natural number = n(n+1)/2

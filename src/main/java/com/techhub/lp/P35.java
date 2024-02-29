@@ -3,12 +3,15 @@ package com.techhub.lp;
 import java.util.Scanner;
 
 /**
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------
+ Program #35
  Write a program to age of person and display the person is eligible to vote or not.
+------------------------------------------------------------------------------------
 
+ Enter your age = 19
  Example : You are eligible to vote
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------------------
 */
 public class P35 {
 
@@ -16,7 +19,7 @@ public class P35 {
 		
 		Scanner sc = new  Scanner(System.in);
 		
-		System.out.print("Enter a age : ");
+		System.out.print("Enter you age = ");
 		int age = sc.nextInt();
 
 		if(age>18){

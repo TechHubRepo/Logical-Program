@@ -7,6 +7,7 @@ import java.util.Scanner;
 
 /**
 ------------------------------------------------------------------------
+ Program #48
  Write a program to read a character is display it is vowel or consonant
 ------------------------------------------------------------------------
 */
