@@ -24,15 +24,15 @@ public class P2 {
 	}
 	
 	private static Set<Integer> findDuplicate(List<Integer> numbers) {
-		Set<Integer> result = new HashSet<>();
+		Set<Integer> duplicates = new HashSet<>();
 		Set<Integer> numberSet = new HashSet<>();
 		for(Integer n : numbers){
 			if(numberSet.contains(n)){
-				result.add(n);
+				duplicates.add(n);
 			}else{
 				numberSet.add(n);
 			}
 		}
-		return result;
+		return duplicates;
 	}
 }
