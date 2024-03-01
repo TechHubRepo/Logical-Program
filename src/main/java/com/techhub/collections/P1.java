@@ -1,7 +1,6 @@
-package com.techhub.java8lp;
+package com.techhub.collections;
 
 import java.util.*;
-import java.util.stream.IntStream;
 
 /**
  ------------------------------------------------------------
