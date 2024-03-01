@@ -7,8 +7,8 @@ public class Test {
 
     public static void main(String[] args) {
 
-        String s = "8Y";
+        String s = "ab2z";
 
-        System.out.println(s.matches("[A-D]{1}[7-9]{1}[X-Z]{1}"));
+        System.out.println(s.matches("ab.z"));
     }
 }

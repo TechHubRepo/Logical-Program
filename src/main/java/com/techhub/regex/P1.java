@@ -21,7 +21,7 @@ public class P1 {
             if(validatePAN(pan)){
                 System.out.println(pan+" Valid PAN");
             }else{
-                System.out.println(pan+" Invalid PAN");
+                System.err.println(pan+" Invalid PAN");
             }
         }
     }

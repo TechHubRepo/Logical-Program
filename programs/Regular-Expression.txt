@@ -5,3 +5,14 @@ Program #1 : Write a program to validate PAN number.
 ABCDE1234Z Valid PAN
 RFDGDR12DC Invalid PAN
 
+==================================================================================================
+Program #2 : Write a program that will validate the string as following
+
+First 4 characters can be from A,B,C,D,E,F,G,H,I,J.
+Next 3 Character can be any character.
+Last 2 Characters can be from t,u,v,w,x,y,z
+==================================================================================================
+
+EFGHUb1tz is valid
+JJIF253w is valid
+
