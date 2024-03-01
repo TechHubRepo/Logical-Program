@@ -4,10 +4,9 @@ import java.io.IOException;
 import java.util.Scanner;
 
 /**
-------------------------------------------------------------------------
- Program #49
- Write a program to read a number form 0 to 6 and display the corresponding day of week
-------------------------------------------------------------------------
+ ==================================================================================================
+ Program #49 Write a program to read a number form 0 to 6 and display the corresponding day of week
+ --------------------------------------------------------------------------------------------------
  0 Sunday
  1 Monday
  2 Tuesday
@@ -15,7 +14,7 @@ import java.util.Scanner;
  4 Thursday
  5 Friday
  6 Saturday
-------------------------------------------------------------------------
+ ==================================================================================================
 */
 public class P49 {
 

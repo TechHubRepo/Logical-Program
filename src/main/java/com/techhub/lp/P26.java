@@ -3,13 +3,12 @@ package com.techhub.lp;
 import java.util.Scanner;
 
 /**
---------------------------------------------------
- Program #26
- Write a program to read an integer value from user and display it.
---------------------------------------------------
-Example : Enter Your age : 10
+ ==================================================================================================
+ Program #26 Write a program to read an integer value from user and display it.
+ --------------------------------------------------------------------------------------------------
+ Example : Enter Your age : 10
 		  Your age : 10
----------------------------------------------------
+ ==================================================================================================
 */
 public class P26 {
 

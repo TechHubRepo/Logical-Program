@@ -6,11 +6,10 @@ import java.io.Reader;
 import java.util.Scanner;
 
 /**
-------------------------------------------------------------------------
- Program #47
- Write a program to read year and display that it is leap year of not.
+ ==================================================================================================
+ Program #47 Write a program to read year and display that it is leap year of not.
  Note : If year is divisible by 4 then it is leap year.
-------------------------------------------------------------------------
+ ==================================================================================================
 */
 public class P47 {
 

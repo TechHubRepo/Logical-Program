@@ -5,10 +5,9 @@ import java.io.InputStreamReader;
 import java.io.Reader;
 
 /**
-------------------------------------------------------------------------
- Program #42
- Write a program to read a character and display that it is digit or not.
-------------------------------------------------------------------------
+ ==================================================================================================
+ Program #42 Write a program to read a character and display that it is digit or not.
+ ==================================================================================================
 */
 public class P42 {
 

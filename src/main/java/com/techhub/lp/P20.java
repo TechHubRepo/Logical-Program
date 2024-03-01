@@ -2,13 +2,12 @@ package com.techhub.lp;
 
 
 /**
----------------------------------------------------------------------------------------------------
-Program #20
-Check if two given String are Anagram of each other or not.
-
-Two Strings are Anagram to each other if they has same length and same character but the order of 
-them are different and you can ignore cases.
----------------------------------------------------------------------------------------------------
+ ==================================================================================================
+ Program #20 Check if two given String are Anagram of each other or not.
+ --------------------------------------------------------------------------------------------------
+ Two Strings are Anagram to each other if they has same length and same character but the order of
+ them are different and you can ignore cases.
+ ==================================================================================================
 */
 public class P20 {
 

@@ -6,10 +6,9 @@ import java.io.Reader;
 import java.util.Scanner;
 
 /**
-------------------------------------------------------------------------
- Program #48
- Write a program to read a character is display it is vowel or consonant
-------------------------------------------------------------------------
+ ==================================================================================================
+ Program #48 Write a program to read a character is display it is vowel or consonant
+ ==================================================================================================
 */
 public class P48 {
 

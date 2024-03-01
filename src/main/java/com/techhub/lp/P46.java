@@ -6,10 +6,10 @@ import java.io.Reader;
 import java.util.Scanner;
 
 /**
-------------------------------------------------------------------------
- Program #46
- Write a program convert character into upper case and lowercase without using builtin function.
-------------------------------------------------------------------------
+ ==================================================================================================
+ Program #46 Write a program convert character into upper case and lowercase without using builtin
+ function.
+ ==================================================================================================
 */
 public class P46 {
 

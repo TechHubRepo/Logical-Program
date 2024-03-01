@@ -3,11 +3,10 @@ package com.techhub.lp;
 import java.util.Arrays;
 
 /**
-----------------------------------------------
- Program #18
- Write a program to find the indexes of an array of number who sum is equals to
+ ==================================================================================================
+ Program #18 Write a program to find the indexes of an array of number who sum is equals to
  given target number.
-----------------------------------------------
+ --------------------------------------------------------------------------------------------------
 
 	Input  : [5, 10, 20, 40]
 	Target : 30
@@ -17,7 +16,7 @@ import java.util.Arrays;
 	Target : 5
 	Output : [5, 6]
 
-----------------------------------------------
+ ==================================================================================================
 */
 public class P18 {
 	

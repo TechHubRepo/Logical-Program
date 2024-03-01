@@ -5,10 +5,9 @@ import java.io.InputStreamReader;
 import java.io.Reader;
 
 /**
-------------------------------------------------------------------------
- Program #44
- Write a program to read a character and display it is a special symbol or not.
-------------------------------------------------------------------------
+ ==================================================================================================
+ Program #44 Write a program to read a character and display it is a special symbol or not.
+ ==================================================================================================
 */
 public class P44 {
 
