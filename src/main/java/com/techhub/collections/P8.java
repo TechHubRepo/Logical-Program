@@ -23,9 +23,8 @@ public class P8 {
 	
 	public static void main(String[] args) {
 		List<Employee> employees = Employees.getAllEMPLOYEE_LIST();
-		Stream<String> fullNames =  employees.stream().flatMap(employee ->{
-			String name = employee.getFirstName() +" "+employee.getLastName();
-			return Stream.of(name);
+		Stream<String> fullNames =  employees.stream().map(employee ->{
+            return employee.getFirstName() +" "+employee.getLastName();
 		});
 		fullNames.forEach(System.out::println);
 	}
