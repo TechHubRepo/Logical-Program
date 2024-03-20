@@ -39,9 +39,32 @@ Program #6 Print the count of character present in string list as following
    1       7         6            12
 
 ==================================================================================================
+Program #7 Print the first name of employee
+--------------------------------------------------------------------------------------------------
 
+Ram
+Purshtom
+Diwaker
+Pawan
+Kuldeep
+Harish
+Shiv
+Naresh
 
+==================================================================================================
+Program #8 Print the full name of employee
+--------------------------------------------------------------------------------------------------
 
+Ram Niwash
+Purshtom Dass
+Diwaker Gupta
+Pawan Verma
+Kuldeep Singh
+Harish Kumar
+Shiv Kumar
+Naresh Kumar
+
+==================================================================================================
 
 
 

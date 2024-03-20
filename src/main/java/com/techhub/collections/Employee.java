@@ -6,7 +6,9 @@ public class Employee {
 
     private int employeeId;
 
-    private String name;
+    private String firstName;
+
+    private String lastName;
 
     private LocalDate dateOfJoining;
 
@@ -21,9 +23,10 @@ public class Employee {
     public Employee() {
     }
 
-    public Employee(int employeeId, String name, LocalDate dateOfJoining, double salary, int jobLevel, boolean confirmed, String city) {
+    public Employee(int employeeId, String firstName, String lastName, LocalDate dateOfJoining, double salary, int jobLevel, boolean confirmed, String city) {
         this.employeeId = employeeId;
-        this.name = name;
+        this.firstName = firstName;
+        this.lastName = lastName;
         this.dateOfJoining = dateOfJoining;
         this.salary = salary;
         this.jobLevel = jobLevel;
@@ -39,12 +42,20 @@ public class Employee {
         this.employeeId = employeeId;
     }
 
-    public String getName() {
-        return name;
+    public String getFirstName() {
+        return firstName;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public String getLastName() {
+        return lastName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
     }
 
     public LocalDate getDateOfJoining() {
@@ -91,7 +102,7 @@ public class Employee {
     public String toString() {
         return "Employee{" +
                 "employeeId=" + employeeId +
-                ", name='" + name + '\'' +
+                ", name='" + this.city + " " + this.lastName+
                 ", dateOfJoining=" + dateOfJoining +
                 ", salary=" + salary +
                 ", jobLevel=" + jobLevel +
