@@ -500,5 +500,16 @@ Program #57 : Write a program to read two number and display its quotient withou
 	Enter number a = 10
  	Enter number b = 5
  	Quotient = 2
+
 ==================================================================================================
+Program #58 : Write a program to get the Ordinal number as following.
+--------------------------------------------------------------------------------------------------
+	1 = 1st
+	2 = 2nd
+	3 = 3rd
+	7 = 7th
+	51 = 51st
+
+==================================================================================================
+
 36
