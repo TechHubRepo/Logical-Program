@@ -1,46 +1,53 @@
 ==================================================================================================
-Program #1 : Find the 3rd Highest number from given List of integer
---------------------------------------------------------------------------------------------------
+Program #1
+
+Find the 3rd Highest number from given List of integer
 
 [12, 5, 7, 9, 2 ,10, 20, 9, 11, 18 , 16, 11, 4]
 
 Output = 16
 
 ==================================================================================================
-Program #2 : Find the duplicate numbers from given List of integer
---------------------------------------------------------------------------------------------------
+Program #2
+
+Find the duplicate numbers from given List of integer
 
 [12, 5, 7, 9, 2 ,10, 20, 9, 11, 18 , 16, 11, 4]
 
 Output = [9,11]
 
 ==================================================================================================
-Program #3 Count the total of all employee salary.
---------------------------------------------------------------------------------------------------
+Program #3
+
+Count the total of all employee salary.
 
 285000
 
 ==================================================================================================
-Program #4 Show highest and second highest salary of employee.
---------------------------------------------------------------------------------------------------
+Program #4
+
+Show highest and second highest salary of employee.
 
 90000
 60000
 
 ==================================================================================================
-Program #5 Show the details of employee who are from Bangalore
---------------------------------------------------------------------------------------------------
+Program #5
+
+Show the details of employee who are from Bangalore
 
 ==================================================================================================
-Program #6 Print the count of character present in string list as following
---------------------------------------------------------------------------------------------------
+Program #6
+
+Print the count of character present in string list as following
 
 [ "A", "Namaste", "BHARAT", "How are you?" ]
    1       7         6            12
 
 ==================================================================================================
-Program #7 Print the first name of employee
---------------------------------------------------------------------------------------------------
+Program #7
+
+Print the first name of employee
 
 Ram
 Purshtom
@@ -52,8 +59,9 @@ Shiv
 Naresh
 
 ==================================================================================================
-Program #8 Print the full name of employee
---------------------------------------------------------------------------------------------------
+Program #8
+
+Print the full name of employee
 
 Ram Niwash
 Purshtom Dass
@@ -65,18 +73,46 @@ Shiv Kumar
 Naresh Kumar
 
 ==================================================================================================
-Program #9 Map all the elements in single array from multiple arrays
+Program #9
+
+Map all the elements in single array from multiple arrays
 
 {{1,2}, {3,4}, {5,6}, {7,8}}
---------------------------------------------------------------------------------------------------
 
 [1, 2, 3, 4, 5, 6, 7, 8]
 
 ==================================================================================================
-Program #10 Find the character occurrence in a String using Stream API.
+Program #10
+
+Find the character occurrence in a String using Stream API.
 
 abccdefgaagfecdaagaabccdef
---------------------------------------------------------------------------------------------------
 
 a = 7
+
+==================================================================================================
+Program #11
+
+Find the first non-repeated character in a given string input using Java 8 or later.
+Occurrence of first non-duplicate elements.
+Find the first non-repetitive character in String.
+
+Inputs
+
+    Session
+    express
+    abxddxpaab
+
+==================================================================================================
+Program #12
+
+Print the 3 employee details of highest salary
+
+==================================================================================================
+Program #13
+
+2D array = {{2,4,6},{5,8,9}} = > {2,3,4,5,6}
+
+Find 5 Using Stream API
+
 ==================================================================================================

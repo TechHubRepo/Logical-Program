@@ -1,6 +1,7 @@
 ==================================================================================================
-Program #1 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #1
+
+Write a program to drew the following pattern.
 
 ********
 ********
@@ -9,8 +10,9 @@ Program #1 : Write a program to drew the following pattern.
 ********
 
 ==================================================================================================
-Program #2 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #2
+
+Write a program to drew the following pattern.
 
 ********
 *      *
@@ -19,8 +21,9 @@ Program #2 : Write a program to drew the following pattern.
 ********
 
 ==================================================================================================
-Program #3 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #3
+
+Write a program to drew the following pattern.
 
 *
 **
@@ -30,8 +33,9 @@ Program #3 : Write a program to drew the following pattern.
 ******
 
 ==================================================================================================
-Program #4 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #4
+
+Write a program to drew the following pattern.
 
 ******
 *****
@@ -41,8 +45,9 @@ Program #4 : Write a program to drew the following pattern.
 *
 
 ==================================================================================================
-Program #5 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #5
+
+Write a program to drew the following pattern.
 
      *
     **
@@ -52,8 +57,9 @@ Program #5 : Write a program to drew the following pattern.
 ******
 
 ==================================================================================================
-Program #6 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #6
+
+Write a program to drew the following pattern.
 
 ******
  *****
@@ -63,8 +69,9 @@ Program #6 : Write a program to drew the following pattern.
      *
 
 ==================================================================================================
-Program #7 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #7
+
+Write a program to drew the following pattern.
 
 *
 **
@@ -76,8 +83,10 @@ Program #7 : Write a program to drew the following pattern.
 ********
 
 ==================================================================================================
-Program #8 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #8
+
+Write a program to drew the following pattern.
+
 
 ********
 *     *
@@ -89,8 +98,10 @@ Program #8 : Write a program to drew the following pattern.
 *
 
 ==================================================================================================
-Program #9 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #9
+
+Write a program to drew the following pattern.
+
 
      *
     **
@@ -100,8 +111,10 @@ Program #9 : Write a program to drew the following pattern.
 ******
 
 ==================================================================================================
-Program #10 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #10
+
+Write a program to drew the following pattern.
+
 
 ******
  *   *
@@ -111,8 +124,10 @@ Program #10 : Write a program to drew the following pattern.
      *
 
 ==================================================================================================
-Program #11 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #11
+
+Write a program to drew the following pattern.
+
 
    *
   ***
@@ -120,8 +135,10 @@ Program #11 : Write a program to drew the following pattern.
 *******
 
 ==================================================================================================
-Program #12 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #12
+
+Write a program to drew the following pattern.
+
 
 *******
  *****
@@ -129,8 +146,10 @@ Program #12 : Write a program to drew the following pattern.
    *
    
 ==================================================================================================
-Program #13 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #13
+
+Write a program to drew the following pattern.
+
 
    *
   * *
@@ -138,8 +157,10 @@ Program #13 : Write a program to drew the following pattern.
 *******
 
 ==================================================================================================
-Program #14 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #14
+
+Write a program to drew the following pattern.
+
 
 *******
  *   *
@@ -147,8 +168,10 @@ Program #14 : Write a program to drew the following pattern.
    *
 
 ==================================================================================================
-Program #15 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #15
+
+Write a program to drew the following pattern.
+
 
    *
   ***
@@ -159,8 +182,10 @@ Program #15 : Write a program to drew the following pattern.
    *
    
 ==================================================================================================
-Program #16 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #16
+
+Write a program to drew the following pattern.
+
 
    *
   * *
@@ -171,8 +196,10 @@ Program #16 : Write a program to drew the following pattern.
    *
    
 ==================================================================================================
-Program #17 : Write a program to drew the following pattern.
---------------------------------------------------------------------------------------------------
+Program #17
+
+Write a program to drew the following pattern.
+
 
 programmingspark
 r              r
@@ -193,9 +220,11 @@ k              p
 programmingspark
 
 ==================================================================================================
-Program #18 : Write a program to find the indexes of an array of number who sum is equals to 
+Program #18
+
+Write a program to find the indexes of an array of number who sum is equals to
 given target number.
---------------------------------------------------------------------------------------------------
+
 
 	Input  : [5, 10, 20, 40]
 	Target : 30
@@ -206,8 +235,10 @@ given target number.
 	Output : [5, 6]
 
 ==================================================================================================
-Program #19 : Find the number of occurrence of character in string.
---------------------------------------------------------------------------------------------------
+Program #19
+
+Find the number of occurrence of character in string.
+
 
  String = abacba 
  a = 3 
@@ -215,14 +246,17 @@ Program #19 : Find the number of occurrence of character in string.
  c = 1
 
 ==================================================================================================
-Program #20 : Check if two given String are Anagram of each other or not.
---------------------------------------------------------------------------------------------------
+Program #20
+
+Check if two given String are Anagram of each other or not.
+
 Two Strings are Anagram to each other if they has same length and same character but the order of 
 them are different and you can ignore cases.
 
 ==================================================================================================
-Program #21 : Print permutation of a String
---------------------------------------------------------------------------------------------------
+Program #21
+
+Print permutation of a String
 
 Example :
 
@@ -234,54 +268,84 @@ Example :
      	   RMA
 
 ==================================================================================================
-Program #22 : Remove duplicate element from array.
---------------------------------------------------------------------------------------------------
+Program #22
+
+Remove duplicate element from array.
 
 Example : [5,9,6,5,9,2,5] -> [5,9,6,2]
 
 ==================================================================================================
-Program #23 : Reverse the  String.
---------------------------------------------------------------------------------------------------
+Program #23
+
+Reverse the  String.
 
 Example :  ABCD -> DCBA
 
 ==================================================================================================
-Program #24 : Remove all the white-spaces from String.
---------------------------------------------------------------------------------------------------
+Program #24
+
+Remove all the white-spaces from String.
 
 Example :  Hello world welcome to java ->  Helloworldwelcometojava
 
 ==================================================================================================
-Program #25 : Write a program to read a string value from user and display it.
---------------------------------------------------------------------------------------------------
+Program #25
+
+Write a program to read a string value from user and display it.
 
 Example : Enter Your Name : Ram Niwash
 		  Your Name : Ram Niwash
 
 ==================================================================================================
-Program #26 : Write a program to read a int value from user and display it.
---------------------------------------------------------------------------------------------------
+Program #26
+
+Write a program to read a int value from user and display it.
 
 Example : Enter Your age : 10
 		  Your age : 10
 
 ==================================================================================================
-Program #27 : Write a program to read a string value from user and display its individual characters.
---------------------------------------------------------------------------------------------------
+Program #27
+
+Write a program to read a string value from user and display its individual characters.
 
 Example : Enter Your Name : Ram Niwash
 		  Your Name : R,a,m, ,N,i,w,a,s,h,
 
 ==================================================================================================
-Program #28 : Write a program to read a char value from user and display it.
---------------------------------------------------------------------------------------------------
+Program #28
+
+Write a program to read a char value from user and display it.
 
 Example : Enter a Character : H
 		  You entered : H
 
 ==================================================================================================
-Program #29 : Write a program to read two numbers and swap them using third variable.
---------------------------------------------------------------------------------------------------
+Program #29
+
+Write a program to read two numbers and swap them using third variable.
+
+Example :
+	Enter Number A : 52
+	Enter Number B : 33
+	A = 33
+	B = 52
+
+==================================================================================================
+Program #30
+
+Write a program to read two numbers and swap them without using third variable.
+
+Example :
+	Enter Number A : 52
+	Enter Number B : 33
+	A = 33
+	B = 52
+
+==================================================================================================
+Program #31
+
+Write a program to read two numbers and swap them using bitwise operator.
 
 Example : 
 	Enter Number A : 52
@@ -290,28 +354,9 @@ Example :
 	B = 52
 
 ==================================================================================================
-Program #30 : Write a program to read two numbers and swap them without using third variable.
---------------------------------------------------------------------------------------------------
+Program #32
 
-Example : 
-	Enter Number A : 52
-	Enter Number B : 33
-	A = 33
-	B = 52
-
-==================================================================================================
-Program #31 : Write a program to read two numbers and swap them using bitwise operator.
---------------------------------------------------------------------------------------------------
-
-Example : 
-	Enter Number A : 52
-	Enter Number B : 33
-	A = 33
-	B = 52
-
-==================================================================================================
-Program #32 : Write a program to read two numbers and display the sum of without using + operator.
---------------------------------------------------------------------------------------------------
+Write a program to read two numbers and display the sum of without using + operator.
 
 Example : 
 	Enter Number A : 7
@@ -319,74 +364,93 @@ Example :
 	Sum = 10
 
 ==================================================================================================
-Program #33 : Write a program to convert fahrenheit to celsius.
---------------------------------------------------------------------------------------------------
+Program #33
+
+Write a program to convert fahrenheit to celsius.
+
 
 Example : c = (f-32)*5/9;
 
 ==================================================================================================
-Program #34 : Write a program to read a number and display it is positive or not.
---------------------------------------------------------------------------------------------------
+Program #34
+
+Write a program to read a number and display it is positive or not.
+
 
 Example : 9 is Positive
           -8 is negative
 
 ==================================================================================================
-Program #35 : Write a program to age of person and display the person is eligible to vote or not.
---------------------------------------------------------------------------------------------------
+Program #35
+
+Write a program to age of person and display the person is eligible to vote or not.
+
 
 Example : You are eligible to vote
 
 ==================================================================================================
-Program #36 : Write a program to read a number and display that it is even or odd.
---------------------------------------------------------------------------------------------------
+Program #36
+
+Write a program to read a number and display that it is even or odd.
 
 Example : 5 is odd
           10 is even
 
 ==================================================================================================
-Program #37 : Write a program to read two number and display maximum of number.
---------------------------------------------------------------------------------------------------
+Program #37
+
+Write a program to read two number and display maximum of number.
 
 Example : 10 is maximum
 
 ==================================================================================================
-Program #38 : Write a program to read two number and display minimum of number.
---------------------------------------------------------------------------------------------------
+Program #38
+
+Write a program to read two number and display minimum of number.
 
 Example : 10 is minimum
 
 ==================================================================================================
-Program #39 : Write a program to read three number and display maximum of them.
---------------------------------------------------------------------------------------------------
+Program #39
+
+Write a program to read three number and display maximum of them.
+
 
 Example : 10 is maximum
 
 ==================================================================================================
-Program #40 : Write a program to read three number and display minimum of them.
---------------------------------------------------------------------------------------------------
+Program #40
+
+Write a program to read three number and display minimum of them.
 
 Example : 10 is minimum
 
 ==================================================================================================
-Program #41 : Write a program to find Longest Arithmetic Progression
---------------------------------------------------------------------------------------------------
+Program #41
+
+Write a program to find Longest Arithmetic Progression
+
 
 ==================================================================================================
-Program #42 : Write a program to read a character and display that it is digit or not.
---------------------------------------------------------------------------------------------------
+Program #42
+
+Write a program to read a character and display that it is digit or not.
 
 ==================================================================================================
-Program #43 : Write a program to read a character and display it is an uppercase or lowercase.
---------------------------------------------------------------------------------------------------
+Program #43
+
+Write a program to read a character and display it is an uppercase or lowercase.
 
 ==================================================================================================
-Program #44 : Write a program to read a character and display it is a special symbol or not.
---------------------------------------------------------------------------------------------------
+Program #44
+
+Write a program to read a character and display it is a special symbol or not.
 
 ==================================================================================================
-Program #45 : Write a program to read three subject marks and display the following
---------------------------------------------------------------------------------------------------
+Program #45
+
+Write a program to read three subject marks and display the following
+
     1. Average marks
     2. Total Marks
     3. Grade as per following criteria
@@ -400,22 +464,28 @@ Program #45 : Write a program to read three subject marks and display the follow
             <50       E      Failure
        -------------------------------------
 ==================================================================================================
-Program #46 : Write a program convert character into upper case and lowercase without using built
+Program #46
+
+Write a program convert character into upper case and lowercase without using built
 in function.
---------------------------------------------------------------------------------------------------
 
 ==================================================================================================
-Program #47 : Write a program to read year and display that it is leap year of not.
---------------------------------------------------------------------------------------------------
- Note : If year is divisible by 4 then it is leap year.
+Program #47
+
+Write a program to read year and display that it is leap year of not.
+
+Note : If year is divisible by 4 then it is leap year.
 
 ==================================================================================================
-Program #48 : Write a program to read a character is display it is vowel or consonant.
---------------------------------------------------------------------------------------------------
+Program #48
+
+Write a program to read a character is display it is vowel or consonant.
+
 
 ==================================================================================================
-Program #49 : Write a program to read a number form 0 to 6 and display the corresponding day of week
---------------------------------------------------------------------------------------------------
+Program #49
+
+Write a program to read a number form 0 to 6 and display the corresponding day of week
 
 0 Sunday
 1 Monday
@@ -426,8 +496,10 @@ Program #49 : Write a program to read a number form 0 to 6 and display the corre
 6 Saturday
 
 ==================================================================================================
-Program #50 : Write a program to read month and year and display the number of days in month.
---------------------------------------------------------------------------------------------------
+Program #50
+
+Write a program to read month and year and display the number of days in month.
+
 1 : 31
 2 : 28/29
 3 : 30
@@ -442,8 +514,10 @@ Program #50 : Write a program to read month and year and display the number of d
 12 : 31
 
 ==================================================================================================
-Program #51 : Write a program to read a number and display the first n natural number.
---------------------------------------------------------------------------------------------------
+Program #51
+
+Write a program to read a number and display the first n natural number.
+
 1,2,3,4, ...., 50
 51,51,53 ...., 100
 .
@@ -452,37 +526,46 @@ Program #51 : Write a program to read a number and display the first n natural n
 m, m+1, m+2, .... n
 
 ==================================================================================================
-Program #52 : Write a program to read a number and display the sum of first n natural number.
---------------------------------------------------------------------------------------------------
+Program #52
+
+Write a program to read a number and display the sum of first n natural number.
+
 1+2+3+4+5 = 15
 
 sum of first n natural number = n(n+1)/2
 
 ==================================================================================================
-Program #53 : Write a program to find the sum of command line argument
---------------------------------------------------------------------------------------------------
+Program #53
+
+Write a program to find the sum of command line argument
 
 5 10 15
 
 sum = 30
 
 ==================================================================================================
-Program #54 : Write a program to read a number and display each digit in words
---------------------------------------------------------------------------------------------------
+Program #54
+
+Write a program to read a number and display each digit in words
+
 123
 ONE TWO THREE
 
 ==================================================================================================
-Program #55 : Write a program to read a number show that it is power of 2 or not
---------------------------------------------------------------------------------------------------
+Program #55
+
+Write a program to read a number show that it is power of 2 or not
+
 4 = 2 * 2
 8  = 2 * 2 * 2
 16 = 2 * 2 * 2 * 2
 32 = 2 * 2 * 2 * 2 * 2
 
 ==================================================================================================
-Program #56 : Write a program to read a number show its table
---------------------------------------------------------------------------------------------------
+Program #56
+
+Write a program to read a number show its table
+
 2
 4
 6
@@ -495,15 +578,19 @@ Program #56 : Write a program to read a number show its table
 20
 
 ==================================================================================================
-Program #57 : Write a program to read two number and display its quotient without using / operator.
---------------------------------------------------------------------------------------------------
+Program #57
+
+Write a program to read two number and display its quotient without using / operator.
+
 	Enter number a = 10
  	Enter number b = 5
  	Quotient = 2
 
 ==================================================================================================
-Program #58 : Write a program to get the Ordinal number as following.
---------------------------------------------------------------------------------------------------
+Program #58
+
+Write a program to get the Ordinal number as following.
+
 	1 = 1st
 	2 = 2nd
 	3 = 3rd
@@ -511,8 +598,10 @@ Program #58 : Write a program to get the Ordinal number as following.
 	51 = 51st
 
 ==================================================================================================
-Program #59 : Write a program to get the diagonal elements of square matrix
---------------------------------------------------------------------------------------------------
+Program #59
+
+Write a program to get the diagonal elements of square matrix
+
 Input
 
 [
@@ -526,6 +615,52 @@ Output
 
 1 6 11 16
 4 7 10 13
+
+==================================================================================================
+Program #60
+
+Given an array arr[] of size n of non-negative integers. Each array element represents the maximum
+length of the jumps that can be made forward from that element. This means if arr[i] = x, then we can jump any distance
+y such that y ≤ x.
+
+Find the minimum number of jumps to reach the end of the array starting from the first element. If an element is 0,
+then you cannot move through that element.
+Note:  Return -1 if you can't reach the end of the array.
+
+Input: arr[] = {1, 3, 5, 8, 9, 2, 6, 7, 6, 8, 9}, n = 11
+Output: 3
+
+Explanation:
+First jump from 1st element to 2nd element with value 3.
+From here we jump to 5th element with value 9, and from here we will jump to the last.
+
+Input: arr = {1, 4, 3, 2, 6, 7}, n = 6
+Output: 2
+Explanation: First we jump from the 1st to 2nd element and then jump to the last element.
+Input: arr = {0, 10, 20}, n = 3
+Output: -1
+Explanation: We cannot go anywhere from the 1st element.
+
+==================================================================================================
+Program #61
+
+Array = [1,1,2,2,2,2,3,4,4,4,]
+
+Output
+
+[3,1,1,4,4,4,2,2,2,2]
+
+Explanation:
+3 is 1 Times so comes 1st
+1 is 2 times so comes 2nd
+4 is 3 times so comes 3rd
+so on
+
+==================================================================================================
+Program #62
+
+Array = {11,12,13,41,111}
+Find how many 1's are there
 
 ==================================================================================================
 
