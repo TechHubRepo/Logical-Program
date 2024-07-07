@@ -1,6 +1,5 @@
 package com.techhub.collections;
 
-import java.util.List;
 import java.util.stream.Stream;
 
 /**
@@ -19,7 +18,7 @@ public class P13 {
 
 		Stream<Integer[]> st = Stream.of(arr);
 
-		st.flatMap(Stream::of).filter(e->{return e==11;}).forEach(System.out::println);
+		st.flatMap(Stream::of).filter(e->{return e==5;}).forEach(System.out::println);
 
 	}
 }

@@ -99,7 +99,7 @@ Find the first non-repetitive character in String.
 
 Inputs
 
-    Session
+    session
     express
     abxddxpaab
 
@@ -115,4 +115,60 @@ Program #13
 
 Find 5 Using Stream API
 
+==================================================================================================
+Program #14
+
+Sort the Map<String,String> by value using Stream API Java 8
+
+Input:
+    {a=z, b=y, c=x}
+
+Output
+    {c=x, b=y, a=z}
+
+==================================================================================================
+Program #15
+
+Count employee by the city using java 8 stream api
+==================================================================================================
+Program #16
+
+Find the length of each String in list using Stream API
+==================================================================================================
+Program #17
+
+Find the length of each String in list using Stream API and store in Map as followings.
+
+{Hi=2, Namaste=7, Hello=5, Bharat=6}
+==================================================================================================
+Program #18
+
+Add two List<String> l1 and l2 into l3 using Java 8 Stream API.
+
+Input
+    l1 = [Namaste, Hello, Hi, Bharat]
+    l2 = [ABC, XYZ, PQR]
+
+Output
+    l3 = [Namaste, Hello, Hi, Bharat, ABC, XYZ, PQR]
+==================================================================================================
+Program #19
+
+Find the occurrence of 1s in integer array using java 8 Stream API
+
+Input
+ int[] arr = {11,12,13,41,111,101,1001};
+
+Output
+ 12
+==================================================================================================
+Program #20
+
+Find the occurrence of each word in following syntax and store in map using Stream API.
+
+Input:
+    This Project is completed by Ram and this project documentation is completed by Ram
+
+Output:
+    {this=2, project=2, is=2, completed=2, by=2, ram=2, and=1, documentation=1}
 ==================================================================================================

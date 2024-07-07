@@ -3,6 +3,7 @@ package com.techhub.collections;
 import java.util.LinkedHashMap;
 import java.util.function.Function;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 /**
  ==================================================================================================
@@ -21,22 +22,24 @@ import java.util.stream.Collectors;
 public class P11 {
 	
 	public static void main(String[] args) {
-		System.out.println(findNonRepeated("session"));
-		System.out.println(findNonRepeated("express"));
-		System.out.println(findNonRepeated("abxddxpaab"));
+
+		String[] inputs = {"session","express","abxddxprsaab"};
+
+		for(String input:inputs){
+			findNonRepeated(input);
+			System.out.println();
+		}
 	}
 
-	public static Character findNonRepeated(String input){
+	public static void findNonRepeated(String input){
 
-			Character result =  input.chars()           // IntStream
-					.mapToObj(i -> Character.toLowerCase(Character.valueOf((char) i)))  // convert to lowercase & then to Character object Stream
-					.collect(Collectors.groupingBy(Function.identity(), LinkedHashMap::new, Collectors.counting())) // store in a LinkedHashMap with the count
-					.entrySet().stream()
-					.filter(entry -> entry.getValue() == 1L)
-					.map(entry -> entry.getKey())
-					.findFirst().get();
+			LinkedHashMap <Character,Long> map = input.chars()
+					.mapToObj(e->Character.toLowerCase(Character.valueOf((char) e)))
+					.collect(Collectors.groupingBy(Function.identity(), LinkedHashMap::new, Collectors.counting()));
 
-			return result;
+			Stream<Character> characters = map.entrySet().stream().filter(es -> {return es.getValue() == 1L;}).map(es->es.getKey());
+
+			characters.forEach(System.out::print);
 
 	}
 }
