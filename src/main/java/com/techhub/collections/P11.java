@@ -34,7 +34,7 @@ public class P11 {
 	public static void findNonRepeated(String input){
 
 			LinkedHashMap <Character,Long> map = input.chars()
-					.mapToObj(e->Character.toLowerCase(Character.valueOf((char) e)))
+					.mapToObj(e->Character.toLowerCase((char) e))
 					.collect(Collectors.groupingBy(Function.identity(), LinkedHashMap::new, Collectors.counting()));
 
 			Stream<Character> characters = map.entrySet().stream().filter(es -> {return es.getValue() == 1L;}).map(es->es.getKey());
