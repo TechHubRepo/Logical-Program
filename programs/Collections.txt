@@ -172,3 +172,12 @@ Input:
 Output:
     {this=2, project=2, is=2, completed=2, by=2, ram=2, and=1, documentation=1}
 ==================================================================================================
+Program #21
+
+Find Duplicate Chars In String using Stream API.
+
+Input:
+    abcdefaddeabxyxx
+
+Output:
+    a,b,d,e,x
