@@ -25,6 +25,7 @@ public class P56 {
 		System.out.print("Enter a number  : ");
 		int number = input.nextInt();
 		printTable(number);
+		input.close();
 	}
 
 	private static void printTable(int number){

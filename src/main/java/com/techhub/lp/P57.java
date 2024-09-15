@@ -20,6 +20,7 @@ public class P57 {
 		System.out.print("Enter number b = ");
 		int numberB = input.nextInt();
 		System.out.println(findQuotient(numberA, numberB));
+		input.close();
 	}
 
 	private static int findQuotient(int numberA, int numberB){

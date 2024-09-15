@@ -181,3 +181,34 @@ Input:
 
 Output:
     a,b,d,e,x
+
+==================================================================================================
+Program #22
+
+Find Highest salary employee from the map as given below.
+
+    1, Highest
+    2, 2nd Highest
+    3, 3rd Highest
+    ...
+
+Input:
+    Map<String,Integer>
+    ("Nani", 10000)
+    ("Chintu", 20000)
+    ("Kanni", 40000)
+    ("Harika", 15000)
+    ("Srinivas", 15000)
+    ("Srini", 20000)
+
+    (Map,1)
+    (Map,2)
+    (Map,3)
+
+Output:
+    1 = Kanni
+    2 = Chintu, Srini
+    3 = Harika, Srinivas
+    4 = Nani
+
+==================================================================================================

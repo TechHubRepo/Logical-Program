@@ -24,5 +24,6 @@ public class P54 {
 			int t = Integer.parseInt(c.toString());
 			System.out.print(DIGIT_WORD[t]+" ");
 		}
+		input.close();
 	}
 }

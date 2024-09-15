@@ -1,7 +1,6 @@
 package com.techhub.lp;
 
 import java.util.Scanner;
-import java.io.Reader;
 
 /**
  ==================================================================================================

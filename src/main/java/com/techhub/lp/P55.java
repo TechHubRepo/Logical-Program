@@ -1,6 +1,5 @@
 package com.techhub.lp;
 
-import java.util.List;
 import java.util.Scanner;
 
 /**
@@ -22,6 +21,7 @@ public class P55 {
 		System.out.print("Enter a number  : ");
 		int number = input.nextInt();
 		System.out.println(isPowerOfTwo(number));
+		input.close();
 	}
 
 	private static boolean isPowerOfTwo(int number){

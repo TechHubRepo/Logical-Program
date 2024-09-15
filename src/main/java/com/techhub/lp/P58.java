@@ -1,7 +1,5 @@
 package com.techhub.lp;
 
-import java.util.Scanner;
-
 /**
  ==================================================================================================
  Program #58 : Write a program to get the Ordinal number as following.

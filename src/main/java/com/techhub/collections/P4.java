@@ -1,7 +1,6 @@
 package com.techhub.collections;
 
 import java.util.List;
-import java.util.stream.DoubleStream;
 import java.util.stream.Stream;
 
 /**
